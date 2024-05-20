@@ -7,7 +7,7 @@ doas pkg_add gvfs gvfs-smb dbus avahi
 doas rcctl enable multicast messagebus avahi_daemon
 ```
 
-``$HOME/.xession``:
+``$HOME/.xsession``:
 
 ```
 [...]
